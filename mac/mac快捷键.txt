@@ -1,0 +1,50 @@
+⌨️五个好用的快捷键
+使用频率很高，每天都在用
+关闭标签 Command/Ctrl+W
+打开新标签 Command/Ctrl+T
+重新打开刚才关闭的标签页 Command+Shift+T
+新开一个浏览器 Command/Ctrl+N
+新开无痕浏览器 Command+Shift+N
+
+
+
+🖼画中画
+好像可以替代插件
+右键-右键
+📌检查元素，编辑网页
+自定义内容，代替 PS，王思聪​​
+https://www.google.com/search?q=%E7%8E%8B%E6%80%9D%E8%81%AA+%E6%94%AF%E4%BB%98%E5%AE%9D+%E5%8F%A3%E4%BB%A4&sxsrf=ALeKk00fs3LMF7EpqyFLYiM_M9d26eHx8Q:1583663914529&source=lnms&tbm=isch&sa=X&ved=2ahUKEwigtsbo14roAhUNPnAKHckMBroQ_AUoAnoECAsQBA&biw=1440&bih=724
+https://weibo.com/sephirex?sudaref=s.weibo.com&display=0&retcode=6102&is_hot=1#1583663993909
+
+🗝找回密码
+https://juejin.im/user/5a4242c7f265da4312812d8d
+设置-密码-输入开机密码
+修改输入框类型，改成 txt
+🏙主题背景
+
+
+经常有人问
+⚠️颜色重叠
+🔇静音
+当前的最佳解决方法
+单个网站所有标签
+1、右键
+2、Control+单击
+单个标签 enable-tab-audio-muting
+Version > 80(chrome://version) ，Tab Muter https://chrome.google.com/webstore/detail/tab-muter/bnclejfcblondkjliiblkojdeloomadd/related
+全体媒体控制 global-media-controls
+🧪Chrome 浏览器隐藏功能实验室 chrome://flags/
+并行下载
+电脑性能和带宽
+Parallel downloading
+https://www.jetbrains.com/zh-cn/idea/download/#section=mac
+强制暗色主题模式
+鸡肋
+Force Dark Mode
+https://www.jianshu.com/u/13d5ac734bc1
+鼠标悬浮标签页，预览网页内容
+Tab Hover Card Images
+鼠标悬浮标签页，提示框
+Tab Hover Cards
+🎮彩蛋游戏
+ chrome://dino
