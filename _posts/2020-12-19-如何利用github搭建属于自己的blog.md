@@ -1,7 +1,7 @@
 ---
 title: BLOG搭建
 layout: post
-background: https://mmbiz.qpic.cn/mmbiz_jpg/KjQSiayo92XosBmUBictmiaicWJnUee9FKZZm91b8fvdoTia1OMJ4fd3kYTldWS7sK83bhvSlLibnuHKicNeesjicj4tMA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1
+background: https://img4.youxiake.com/ps/2017/02/origin/c93c5511a096d90e10fc0c0d4ae20d51.jpg
 subtitle: 如何利用github搭建属于自己的blog
 artist: fcy
 ---
