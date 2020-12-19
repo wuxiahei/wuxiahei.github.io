@@ -1,0 +1,20 @@
+title:             屋下黑
+email:             wuxiahei@qq.com
+description:       blog
+author:            flyone
+#url:               "localhost:4000"
+url:               "http://wuxiahei.github.io/"
+baseurl:
+
+# Social Profiles
+#twitter_username:  SBootstrap
+#github_username:   BlackrockDigital
+#facebook_username: StartBootstrap
+
+# Build settings
+markdown:          kramdown
+paginate:          10
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
