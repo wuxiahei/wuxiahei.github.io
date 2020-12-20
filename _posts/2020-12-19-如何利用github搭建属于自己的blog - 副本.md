@@ -1,7 +1,7 @@
 ---
 title: BLOG搭建
 layout: post
-background: http://wuxiahei.github.io/img/2020121901.jpg
+background: https://github.com/wuxiahei/wuxiahei.github.io/blob/master/img/2020121901.jpg
 subtitle: 如何利用github搭建属于自己的blog
 artist: fcy
 ---
