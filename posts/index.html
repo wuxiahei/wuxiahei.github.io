@@ -1,0 +1,32 @@
+---
+layout: page
+title: Posts
+background: '/img/bg-post.jpg'
+---
+
+{% for post in paginator.posts %}
+
+<article class="post-preview">
+  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+    <div class="post-container">
+      <div class="post-img-container">
+        <img class="post-img" src={{post.background}}>
+      </div>
+      <div class="post-text">
+        <div class="post-text-header">
+          <h2 class="post-title">{{ post.title }}</h2>
+          <p class="post-meta">
+            {{ post.date | date: '%B %d, %Y' }}
+          </p>
+          </div>
+      </div>
+    </div>
+  </a>
+</article>
+
+{% endif %}
+
+  <hr>
+
+
+
